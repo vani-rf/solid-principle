@@ -1,0 +1,1 @@
+> kita dapat menggabungkan abstracksi pada paket hight level
